@@ -1,7 +1,3 @@
----
-
-## Java Mastery Map (from metal to meaning)
-
 ### 1. Language Core (the grammar of thought)
 
 * JVM, JRE, JDK (execution vs tooling)
